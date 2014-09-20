@@ -1,6 +1,12 @@
-# Tilt visualization
+# Tilt Visualization
 
 Visualize the tilt (orientation) of your mobile device via web sockets ([socket.io](http://socket.io)).
+
+## Setup on heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/tgwizard/tilt-viz)
+
+It is free.
 
 ## To setup locally:
 

@@ -1,0 +1,7 @@
+{
+  "name": "Tilt Visualization",
+  "description": "Visualize the tilt (orientation) of your mobile device via web sockets",
+  "keywords": ["visualization", "websockets", "socket.io", "deviceorientatino", "tilt", "node", "express"],
+  "website": "https://github.com/tgwizard/tilt-viz",
+  "repository": "https://github.com/tgwizard/tilt-viz"
+}
